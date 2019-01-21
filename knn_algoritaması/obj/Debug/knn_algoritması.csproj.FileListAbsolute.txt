@@ -1,0 +1,12 @@
+C:\Users\pc\Documents\Visual Studio 2012\Projects\knn_algoritaması\knn_algoritaması\bin\Debug\knn_algoritaması.exe.config
+C:\Users\pc\Documents\Visual Studio 2012\Projects\knn_algoritaması\knn_algoritaması\obj\Debug\knn_algoritaması.exe
+C:\Users\pc\Documents\Visual Studio 2012\Projects\knn_algoritaması\knn_algoritaması\obj\Debug\knn_algoritaması.pdb
+D:\Ders Notları\2017-2018\151001059 Fırat DURSUN-veri madenciliği\151001059 Fırat DURSUN\knn_algoritaması\knn_algoritaması\bin\Debug\knn_algoritaması.exe.config
+D:\Ders Notları\2017-2018\151001059 Fırat DURSUN-veri madenciliği\151001059 Fırat DURSUN\knn_algoritaması\knn_algoritaması\obj\Debug\knn_algoritaması.exe
+D:\Ders Notları\2017-2018\151001059 Fırat DURSUN-veri madenciliği\151001059 Fırat DURSUN\knn_algoritaması\knn_algoritaması\obj\Debug\knn_algoritaması.pdb
+D:\Ders Notları\2017-2018\151001059 Fırat DURSUN-veri madenciliği\151001059 Fırat DURSUN\knn_algoritaması\knn_algoritaması\bin\Debug\knn_algoritaması.exe
+D:\Ders Notları\2017-2018\151001059 Fırat DURSUN-veri madenciliği\151001059 Fırat DURSUN\knn_algoritaması\knn_algoritaması\bin\Debug\knn_algoritaması.pdb
+D:\Ders Notları\2017-2018\151001059 Fırat DURSUN-veri madenciliği\151001059 Fırat DURSUN\knn_algoritaması\knn_algoritaması\obj\Debug\knn_algoritması.csprojResolveAssemblyReference.cache
+D:\Ders Notları\2017-2018\151001059 Fırat DURSUN-veri madenciliği\151001059 Fırat DURSUN\knn_algoritaması\knn_algoritaması\obj\Debug\knn_algoritaması.Form1.resources
+D:\Ders Notları\2017-2018\151001059 Fırat DURSUN-veri madenciliği\151001059 Fırat DURSUN\knn_algoritaması\knn_algoritaması\obj\Debug\knn_algoritaması.Properties.Resources.resources
+D:\Ders Notları\2017-2018\151001059 Fırat DURSUN-veri madenciliği\151001059 Fırat DURSUN\knn_algoritaması\knn_algoritaması\obj\Debug\knn_algoritması.csproj.GenerateResource.Cache

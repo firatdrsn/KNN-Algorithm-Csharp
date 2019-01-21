@@ -1,0 +1,9 @@
+c:\users\pc\documents\visual studio 2012\Projects\knn_algoritaması\knn_algoritaması\bin\Debug\knn_algoritaması.exe.config
+c:\users\pc\documents\visual studio 2012\Projects\knn_algoritaması\knn_algoritaması\bin\Debug\knn_algoritaması.exe
+c:\users\pc\documents\visual studio 2012\Projects\knn_algoritaması\knn_algoritaması\bin\Debug\knn_algoritaması.pdb
+c:\users\pc\documents\visual studio 2012\Projects\knn_algoritaması\knn_algoritaması\obj\Debug\knn_algoritaması.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2012\Projects\knn_algoritaması\knn_algoritaması\obj\Debug\knn_algoritaması.Form1.resources
+c:\users\pc\documents\visual studio 2012\Projects\knn_algoritaması\knn_algoritaması\obj\Debug\knn_algoritaması.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2012\Projects\knn_algoritaması\knn_algoritaması\obj\Debug\knn_algoritaması.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2012\Projects\knn_algoritaması\knn_algoritaması\obj\Debug\knn_algoritaması.exe
+c:\users\pc\documents\visual studio 2012\Projects\knn_algoritaması\knn_algoritaması\obj\Debug\knn_algoritaması.pdb
